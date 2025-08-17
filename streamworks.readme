@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on predicting customer churn for StreamWorks Media, a UK-based video streaming platform. By analyzing user data, the goal is to identify factors contributing to churn and develop a predictive model to proactively retain customers.
+This project focuses on predicting customer churn for StreamWorks Media, a UK-based video streaming platform. By analysing user data, the goal is to identify factors contributing to churn and develop a predictive model to proactively retain customers.
 
 ## Business Scenario
 
@@ -36,11 +36,11 @@ is_churned  1 if user cancelled in past 30 days, else 0 
  
 ## Deliverables
 
-1.  **Jupyter Notebook (.ipynb):** A well-organized notebook containing:
+1.  **Jupyter Notebook (.ipynb):** A well-organised notebook containing:
     *   Data loading and exploration
     *   Data cleaning and preprocessing
     *   Feature engineering
-    *   Summary tables and visualizations
+    *   Summary tables and visualisations
     *   Statistical analysis
     *   Predictive modeling
     *   Explanations and insights in markdown
@@ -67,7 +67,7 @@ is_churned  1 if user cancelled in past 30 days, else 0 
     *   Use Chi-square test to check if churn is related to `gender`, `received_promotions`, or `referred_by_friend`
     *   Use a t-test to check if watch time differs significantly between churned and retained users
     *   Use charts (boxplots, bar plots, histograms) to visualize key differences between churned and active users
-4.  **Predictive Modeling:**
+4.  **Predictive Modelling:**
     *   Build a logistic regression model to predict `is_churned`:
         *   Split into training and test sets
         *   Scale features (StandardScaler)
@@ -85,7 +85,7 @@ is_churned  1 if user cancelled in past 30 days, else 0 
 2.  Does watch time impact churn likelihood?
 3.  Are mobile-dominant users more likely to cancel?
 4.  What are the top 3 features influencing churn based on your model?
-5.  Which customer segments should the retention team prioritize?
+5.  Which customer segments should the retention team prioritise?
 
 ## Report Structure
 
@@ -100,8 +100,4 @@ The PDF report should include the following sections:
 7.  **Recommendations:** Actionable strategies for StreamWorks Media.
 8.  **Data Issues or Risks:** Limitations or risks identified.
 
-## Optional Stretch Goals
 
-*   Use GridSearchCV to tune logistic regression hyperparameters.
-*   Try a second model (e.g., Random Forest) and compare performance.
-*   Segment churn by country or subscription type.
