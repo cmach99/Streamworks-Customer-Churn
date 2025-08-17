@@ -34,5 +34,5 @@ Prioritise Retention Efforts: Target retention efforts towards less loyal, less 
 
 8. Data Issues or Risks:
 
-The model used is not very accurate and needs to be improved with better quality data or different analysis techniques.
-The data has limits, so the recommendations should be tested and refined over time.
+  The model used is not very accurate and needs to be improved with better quality data or different analysis techniques.
+  The data has limits, so the recommendations should be tested and refined over time.
