@@ -33,6 +33,6 @@ Focus on Promotions and Loyalty: StreamWorks should prioritise promotions and lo
 Prioritise Retention Efforts: Target retention efforts towards less loyal, less engaged, and unpromoted customers, especially those with lower watch hours.
 
 8. Data Issues or Risks:
-The model used is not very accurate and needs to be improved with better quality data or different analysis techniques.
 
+The model used is not very accurate and needs to be improved with better quality data or different analysis techniques.
 The data has limits, so the recommendations should be tested and refined over time.
